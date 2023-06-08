@@ -1,0 +1,1152 @@
+,Price,ram_in_gb,ddr_version,processor_name,gen_type,OS,disk_drive,storage_in_gb,size_in_inches,touchscreen,company,graphic_card
+0,"16,990",4,4,Intel,10,Windows,SSD,512,11.6,No,Primebook,No
+1,"18,990",4,4,Intel,10,Windows,SSD,512,11.6,No,Primebook,No
+2,"38,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+3,"47,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+4,"38,990",8,4,Intel,10,Windows,SSD,256,14,No,HP,No
+5,"65,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,Yes
+6,"79,990",8,4,Intel,10,Mac,SSD,512,13.3,No,Apple,No
+7,"96,990",16,5,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+8,"58,990",16,4,Intel,10,Windows,SSD,256,15.6,No,Asus,No
+9,"35,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,Realmebook,No
+10,"36,490",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+11,"78,990",8,5,AMD,Not Mentioned,Windows,SSD,512,14,No,MSI,Yes
+12,"43,819",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+13,"38,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+14,"31,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+15,"81,990",16,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+16,"34,990",8,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,MSI,No
+17,"33,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,Lenovo,No
+18,"23,890",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+19,"64,990",16,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,Yes
+20,"59,990",16,3,Intel,10,Windows,SSD,512,15,No,MSI,Yes
+21,"43,975",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+22,"32,990",8,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+23,"39,999",8,4,Intel,Not Mentioned,Windows,SSD,256,15.6,No,Lenovo,No
+24,"33,990",8,4,Intel,10,Windows,SSD,256,15.6,No,Lenovo,No
+25,"23,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Infinix,No
+26,"26,989",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+27,"16,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+28,"49,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Lenovo,Yes
+29,"44,819",8,4,Intel,10,Windows,SSD,512,15.5,No,HP,No
+30,"48,990",16,4,Intel,10,Windows,SSD,512,14,No,MSI,No
+31,"54,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+32,"60,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+33,"38,990",8,4,Intel,Not Mentioned,Windows,Both,1000+256,15.6,No,HP,No
+34,"42,990",16,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Asus,No
+35,"52,490",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+36,"62,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+37,"23,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+38,"52,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+39,"18,990",4,4,Intel,10,Windows,SSD,512,14,No,Primebook,No
+40,"66,800",16,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,HP,No
+41,"49,990",16,4,Intel,10,Windows,SSD,512,14,No,HP,No
+42,"74,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+43,"59,990",16,4,Intel,10,Windows,SSD,512,14,No,HP,No
+44,"40,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+45,"39,990",8,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+46,"38,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+47,"39,999",8,4,AMD,Not Mentioned,Windows,SSD,512,0,No,Lenovo,No
+48,"54,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Realmebook,No
+49,"56,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+50,"73,990",16,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+51,"16,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+52,"64,990",16,4,Intel,10,Windows,SSD,512,11.6,No,HP,Yes
+53,"57,990",16,4,Intel,10,Windows,SSD,256,15,No,HP,No
+54,"48,990",16,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,No
+55,"54,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+56,"39,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+57,"1,24,990",16,5,Intel,10,Windows,SSD,256,15.6,No,Acer,Yes
+58,"33,990",8,4,AMD,Not Mentioned,Windows,SSD,512,16,No,Lenovo,No
+59,"52,490",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+60,"87,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+61,"1,39,990",16,5,Intel,10,Windows,SSD,2000,15.6,No,MSI,Yes
+62,"79,990",8,4,AMD,Not Mentioned,Mac,SSD,512,17.3,No,Apple,No
+63,"59,990",16,4,Intel,10,Windows,SSD,512,13.3,No,HP,No
+64,"35,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+65,"59,990",16,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Asus,Yes
+66,"4,89,990",2,3,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+67,"18,990",4,4,Intel,10,Windows,SSD,512,17.3,No,Primebook,No
+68,"52,990",8,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,MSI,Yes
+69,"53,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+70,"45,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,No
+71,"33,990",8,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+72,"39,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15,No,Infinix,No
+73,"63,990",16,4,Intel,10,Windows,SSD,256,15.6,No,Asus,No
+74,"67,990",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+75,"16,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+76,"56,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+77,"56,999",16,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,HP,No
+78,"30,990",8,4,AMD,5,Windows,SSD,512,14,No,HP,No
+79,"18,990",4,4,Intel,10,Windows,Both,1000+256,15.6,No,Primebook,No
+80,"84,990",16,5,Intel,10,Windows,SSD,512,11.6,No,Asus,Yes
+81,"23,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Infinix,No
+82,"39,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+83,"54,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+84,"42,990",8,4,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+85,"3,22,490",32,3,AMD,Not Mentioned,Mac,SSD,512,14,No,Apple,No
+86,"59,990",16,4,Intel,10,Windows,SSD,512,16,No,MSI,No
+87,"66,990",16,4,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+88,"63,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+89,"1,09,990",16,4,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+90,"67,990",8,4,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+91,"96,990",16,5,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+92,"62,890",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+93,"65,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+94,"59,990",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+95,"78,990",8,5,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+96,"58,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+97,"69,990",16,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+98,"34,500",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,No
+99,"16,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+100,"64,990",16,4,Intel,10,Windows,SSD,512,11.6,No,MSI,Yes
+101,"39,990",8,4,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+102,"94,990",16,4,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+103,"54,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+104,"39,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+105,"84,999",16,4,AMD,Not Mentioned,Windows,SSD,256,15.5,No,HP,No
+106,"38,990",8,4,Intel,10,Windows,SSD,256,14,No,Lenovo,No
+107,"52,490",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+108,"37,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Acer,No
+109,"26,490",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Infinix,No
+110,"1,04,990",16,4,Intel,10,Windows,SSD,256,15.6,No,Lenovo,Yes
+111,"59,990",16,4,Intel,10,Windows,SSD,512,15.5,No,HP,No
+112,"45,990",8,4,Intel,10,Windows,SSD,512,14,No,Realmebook,No
+113,"74,990",16,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+114,"27,990",8,4,Intel,10,Windows,SSD,512,14,No,Infinix,No
+115,"18,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+116,"79,990",8,4,AMD,Not Mentioned,Mac,SSD,512,11.6,No,Apple,No
+117,"39,990",8,4,AMD,Not Mentioned,Windows,SSD,256,13.3,No,Lenovo,No
+118,"42,990",8,4,AMD,Not Mentioned,Windows,SSD,2000,0,No,MSI,No
+119,"43,975",8,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+120,"27,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Infinix,No
+121,"42,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,No
+122,"45,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,Asus,No
+123,"16,990",4,4,Intel,10,Windows,SSD,512,14,No,Primebook,No
+124,"58,990",16,4,Intel,10,Windows,SSD,512,11.6,No,HP,Yes
+125,"32,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Samsung,No
+126,"58,490",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,Yes
+127,"54,990",8,4,Intel,10,Windows,SSD,512,16.1,No,HP,No
+128,"57,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,Yes
+129,"23,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Infinix,No
+130,"2,99,990",32,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+131,"52,490",8,4,AMD,Not Mentioned,Windows,SSD,1000,17.3,No,HP,No
+132,"78,490",16,5,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+133,"59,990",16,4,Intel,10,Windows,SSD,512,13.3,No,Asus,No
+134,"2,10,990",16,5,Intel,10,Windows,SSD,512,16,No,Asus,No
+135,"59,990",16,4,Intel,10,Windows,SSD,256,17.3,No,HP,No
+136,"1,24,990",16,5,Intel,10,Windows,Both,1000+256,14,No,Asus,No
+137,"54,990",8,4,Intel,10,Windows,SSD,512,16,No,HP,Yes
+138,"39,990",2,3,Intel,10,Windows,SSD,512,15.6,No,Acer,No
+139,"18,990",8,5,Intel,Not Mentioned,Windows,SSD,1000,15.6,No,Primebook,No
+140,"55,890",4,4,Intel,10,Windows,SSD,256,11.6,No,Dell,No
+141,"73,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+142,"39,990",16,4,AMD,Not Mentioned,Windows,SSD,512,14,Yes,Lenovo,No
+143,"43,975",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+144,"1,69,990",8,4,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+145,"1,23,990",16,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+146,"65,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+147,"16,990",8,4,Intel,10,Windows,SSD,1000,14,No,Primebook,No
+148,"39,990",4,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Acer,No
+149,"22,490",2,3,Intel,10,DOS,SSD,512,15.6,No,HP,No
+150,"71,990",8,5,Intel,B,Windows,SSD,1000,15.6,No,MSI,Yes
+151,"54,990",4,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+152,"79,990",16,4,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+153,"3,22,490",8,4,Intel,10,Mac,SSD,1000,15.6,No,Apple,No
+154,"27,990",16,4,Intel,10,Windows,SSD,512,16,No,Infinix,No
+155,"52,490",32,3,Intel,10,Windows,SSD,512,15.6,No,HP,No
+156,"74,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Samsung,No
+157,"58,399",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,No
+158,"33,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Acer,No
+159,"59,990",16,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+160,"73,890",8,5,AMD,Not Mentioned,Windows,SSD,512,14,No,Dell,No
+161,"2,11,990",16,4,Intel,10,Windows,SSD,512,16,No,Asus,No
+162,"65,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Gigabyte,Yes
+163,"18,990",16,5,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Primebook,No
+164,"54,990",16,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Realmebook,No
+165,"2,85,490",4,4,Intel,10,Mac,SSD,512,14,No,Apple,No
+166,"49,990",16,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+167,"33,990",32,3,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+168,"2,29,990",8,5,Intel,10,Windows,SSD,512,15,No,Asus,No
+169,"54,890",8,4,Intel,10,Windows,SSD,512,14,Yes,HP,No
+170,"16,990",32,5,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Primebook,No
+171,"54,990",8,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,HP,No
+172,"55,652",4,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Dell,No
+173,"2,79,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+174,"79,490",8,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,HP,No
+175,"42,690",8,4,Intel,10,Windows,SSD,512,16,No,Dell,No
+176,"52,490",32,5,Intel,10,Windows,SSD,256,14,Yes,HP,No
+177,"59,990",16,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,No
+178,"74,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,No
+179,"42,907",8,4,AMD,Not Mentioned,Windows,SSD,2000,14,No,Dell,No
+180,"18,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+181,"38,990",8,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+182,"74,990",8,4,Intel,10,Windows,SSD,512,11.6,No,HP,Yes
+183,"58,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Acer,Yes
+184,"69,990",8,4,Intel,10,Windows,SSD,1000,15.6,Yes,Samsung,No
+185,"49,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+186,"43,975",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+187,"84,990",8,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+188,"64,990",8,5,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+189,"1,54,490",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,Yes
+190,"49,990",16,4,Intel,10,Windows,SSD,1000,17.3,No,Lenovo,Yes
+191,"33,990",8,4,Intel,10,Windows,SSD,2000,16.1,No,Lenovo,No
+192,"68,990",32,5,AMD,Not Mentioned,Windows,SSD,1000,15.5,No,Lenovo,No
+193,"36,790",8,4,Intel,10,Windows,SSD,512,15,No,Dell,No
+194,"39,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+195,"16,990",16,4,Intel,10,Windows,SSD,512,0,No,Primebook,No
+196,"79,990",8,4,Intel,Not Mentioned,Windows,SSD,256,15.6,No,Asus,No
+197,"3,79,990",8,5,Intel,10,Windows,Both,1000,11.6,No,Asus,No
+198,"57,990",4,4,Intel,10,Windows,SSD,2000,16,No,HP,No
+199,"54,990",16,4,Intel,10,Windows,SSD,512,16,No,HP,No
+200,"51,999",32,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+201,"64,990",16,4,Intel,10,Windows,SSD,256,15.6,No,HP,Yes
+202,"1,29,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+203,"52,490",16,5,Intel,10,Windows,SSD,512,15.6,No,HP,No
+204,"55,400",16,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Lenovo,No
+205,"68,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+206,"39,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+207,"59,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+208,"2,85,490",16,4,AMD,Not Mentioned,Mac,SSD,512,15.6,No,Apple,No
+209,"4,29,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+210,"1,77,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,Asus,No
+211,"18,990",32,3,AMD,Not Mentioned,Windows,SSD,512,14,No,Primebook,No
+212,"40,999",32,5,AMD,Not Mentioned,Windows,Both,1000+256,16,No,Asus,No
+213,"1,09,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+214,"61,990",4,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Lenovo,No
+215,"33,990",8,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Lenovo,No
+216,"3,34,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,Yes
+217,"2,24,990",16,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+218,"57,990",8,4,Intel,10,Windows,SSD,2000,15,No,HP,No
+219,"16,990",32,5,Intel,10,Windows,SSD,512,17.3,No,Primebook,No
+220,"64,990",32,5,AMD,Not Mentioned,Windows,SSD,1000,16,No,HP,Yes
+221,"44,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+222,"35,990",4,4,Intel,10,Windows,SSD,512,11.6,No,Acer,No
+223,"54,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+224,"84,990",8,4,Intel,10,Windows,SSD,512,14,Yes,MSI,Yes
+225,"1,17,728",8,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,Yes
+226,"47,990",8,4,Intel,10,Windows,SSD,256,15.6,No,Asus,No
+227,"52,490",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+228,"56,990",16,5,AMD,Not Mentioned,Windows,SSD,512,0,No,Asus,No
+229,"2,50,000",8,5,Intel,10,Windows,SSD,512,15.6,No,alienware,Yes
+230,"1,47,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,Yes
+231,"59,990",8,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+232,"66,990",16,4,Intel,10,Windows,SSD,2000,15.6,No,MSI,Yes
+233,"55,400",32,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+234,"41,990",16,4,Intel,10,Windows,SSD,512,13.4,Yes,Acer,No
+235,"33,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,Lenovo,No
+236,"53,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+237,"68,490",2,3,Intel,10,Windows,SSD,512,15.6,No,HP,No
+238,"2,24,990",8,5,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+239,"18,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15,No,Primebook,No
+240,"47,499",8,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+241,"2,69,990",16,5,Intel,10,Windows,Both,1000+256,13.3,No,Asus,No
+242,"39,990",32,5,Intel,10,Windows,SSD,512,16,No,Asus,No
+243,"16,990",4,4,Intel,10,Windows,SSD,512,11.6,No,Primebook,No
+244,"97,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+245,"1,99,990",16,5,Intel,10,Windows,SSD,2000,17.3,No,Asus,No
+246,"68,990",8,5,Intel,10,Windows,SSD,1000,15.6,No,Lenovo,Yes
+247,"54,990",4,4,AMD,Not Mentioned,Windows,SSD,1000,11.6,No,HP,No
+248,"1,10,490",16,4,Intel,10,Mac,SSD,512,15.6,No,Apple,No
+249,"92,990",16,5,Intel,10,Windows,SSD,1000,14,Yes,HP,Yes
+250,"56,990",16,4,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+251,"52,490",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+252,"26,490",8,3,Intel,10,Windows,SSD,512,13,No,Infinix,No
+253,"1,04,135",16,4,Intel,10,Windows,SSD,512,16.1,No,Lenovo,Yes
+254,"3,61,990",8,4,Intel,10,Windows,SSD,1000,14,No,Asus,No
+255,"59,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+256,"74,999",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+257,"1,31,990",16,4,Intel,10,Windows,SSD,512,16,No,Lenovo,Yes
+258,"49,990",32,5,Intel,10,Windows,SSD,1000,16,No,Asus,No
+259,"43,975",16,4,Intel,10,Windows,SSD,1000,14,No,Lenovo,No
+260,"46,490",16,4,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+261,"44,499",16,4,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+262,"1,71,990",8,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+263,"84,990",8,4,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+264,"63,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,Yes
+265,"81,990",8,4,Intel,10,Windows,SSD,2000,15.6,No,HP,No
+266,"71,990",16,5,Intel,10,Windows,SSD,512,16,Yes,MSI,No
+267,"16,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Primebook,No
+268,"2,24,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Acer,Yes
+269,"1,31,990",16,4,Intel,10,Windows,SSD,1000,15.6,Yes,Asus,No
+270,"1,75,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,MSI,No
+271,"54,990",4,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,HP,No
+272,"2,44,990",32,5,AMD,Not Mentioned,Windows,SSD,512,16,No,MSI,Yes
+273,"56,490",16,5,Intel,10,Windows,SSD,1000,14,No,HP,No
+274,"71,990",16,5,Intel,10,Windows,SSD,512,16,No,Lenovo,No
+275,"52,490",8,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+276,"99,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Dell,Yes
+277,"1,74,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+278,"49,890",8,4,Intel,10,Windows,SSD,1000,14,Yes,Dell,No
+279,"59,990",8,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+280,"72,990",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+281,"1,54,990",16,4,Intel,10,Windows,SSD,512,0,No,Asus,No
+282,"2,81,990",16,4,Intel,10,Windows,SSD,512,0,No,Asus,Yes
+283,"18,990",16,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Primebook,No
+284,"34,990",16,4,AMD,Not Mentioned,DOS,SSD,512,15.6,No,HP,No
+285,"51,139",16,4,Intel,10,Windows,SSD,1000,14,No,HP,No
+286,"82,490",16,4,AMD,Not Mentioned,Windows,SSD,512,14,Yes,HP,No
+287,"33,990",32,5,Intel,10,Windows,SSD,1000,15.6,No,Lenovo,No
+288,"33,990",4,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Lenovo,No
+289,"2,59,990",8,4,Intel,10,Windows,SSD,512,11.6,No,MSI,Yes
+290,"54,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+291,"52,490",16,4,Intel,10,Windows,SSD,512,14,Yes,HP,No
+292,"85,990",8,4,Intel,10,Windows,SSD,1000,14,No,MSI,Yes
+293,"67,990",8,4,Intel,10,Windows,SSD,1000,15,No,HP,No
+294,"3,25,990",32,5,Intel,10,Windows,SSD,1000,15.6,No,alienware,Yes
+295,"59,990",8,4,Intel,10,Windows,SSD,512,16,No,MSI,Yes
+296,"59,990",8,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+297,"16,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Primebook,No
+298,"1,04,990",8,4,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+299,"46,990",32,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+300,"33,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+301,"1,12,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,HP,Yes
+302,"49,890",4,4,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+303,"2,11,990",16,4,Intel,10,Windows,SSD,1000,14,No,Asus,Yes
+304,"69,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Dell,Yes
+305,"1,24,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,16,No,Asus,No
+306,"59,990",16,4,Intel,10,Windows,SSD,1000,14,No,Lenovo,No
+307,"38,990",16,4,Intel,10,Windows,SSD,512,15,No,Lenovo,No
+308,"1,19,990",16,5,Intel,10,Mac,SSD,512,15.6,No,Apple,No
+309,"68,990",8,5,Intel,10,Windows,HDD,1000,15.6,No,MSI,No
+310,"1,85,990",16,5,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+311,"39,999",16,4,AMD,Not Mentioned,Windows,SSD,512,0,No,Lenovo,No
+312,"3,29,990",8,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+313,"35,490",8,3,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,No
+314,"84,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Infinix,No
+315,"63,990",32,5,Intel,10,Windows,SSD,512,13.3,No,Lenovo,No
+316,"71,590",8,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Dell,No
+317,"1,49,990",16,5,AMD,Not Mentioned,Windows,SSD,2000,16,No,Gigabyte,Yes
+318,"1,36,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Dell,Yes
+319,"16,990",16,5,AMD,Not Mentioned,Windows,SSD,512,17.3,Yes,Primebook,No
+320,"99,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+321,"82,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,Yes
+322,"1,10,490",16,4,Intel,10,Mac,SSD,1000,14,Yes,Apple,No
+323,"54,990",16,5,Intel,10,Windows,SSD,512,16,No,HP,No
+324,"1,10,490",4,4,Intel,10,Mac,SSD,1000,15.6,No,Apple,No
+325,"52,990",16,5,Intel,10,Windows,SSD,512,0,No,Lenovo,No
+326,"74,990",16,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Lenovo,Yes
+327,"18,990",8,3,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+328,"1,66,499",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+329,"1,24,990",8,3,AMD,Not Mentioned,Windows,SSD,512,13,No,Asus,No
+330,"1,97,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+331,"52,490",16,4,Intel,10,Windows,SSD,256,13,No,HP,No
+332,"1,42,990",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,No
+333,"1,29,990",16,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Asus,No
+334,"1,02,219",16,5,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+335,"59,990",32,5,AMD,Not Mentioned,Windows,SSD,512,16.1,No,HP,No
+336,"36,400",8,4,AMD,Not Mentioned,Windows,Both,1000+256,14,Yes,Dell,No
+337,"84,990",16,5,Intel,10,Windows,SSD,512,17.3,No,HP,No
+338,"49,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+339,"16,990",16,5,AMD,Not Mentioned,Windows,SSD,1000,14,No,Primebook,No
+340,"52,639",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+341,"2,29,990",8,4,Intel,10,Windows,SSD,512,14,Yes,Asus,Yes
+342,"82,890",8,4,Intel,10,Windows,SSD,512,14,No,Dell,No
+343,"54,990",16,4,Intel,10,Windows,SSD,256,14,No,HP,No
+344,"29,990",8,4,AMD,Not Mentioned,Windows,SSD,512,0,No,Infinix,No
+345,"2,96,000",4,4,Intel,Not Mentioned,Windows,SSD,512,13.4,Yes,HP,Yes
+346,"2,34,990",8,4,Intel,10,Windows,SSD,1000,14,Yes,Asus,Yes
+347,"52,490",32,5,AMD,Not Mentioned,Windows,Both,1000+256,11.6,No,HP,No
+348,"88,990",16,4,Intel,10,Windows,SSD,1000,14,Yes,Dell,No
+349,"59,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+350,"1,89,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,Yes,Lenovo,Yes
+351,"59,990",32,5,AMD,9,Windows,SSD,256,15.6,No,HP,No
+352,"1,08,990",32,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+353,"70,990",8,4,Intel,10,Windows,SSD,512,17.3,No,HP,Yes
+354,"49,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+355,"39,999",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+356,"60,990",32,5,Intel,10,Windows,SSD,1000,14,Yes,Asus,No
+357,"83,890",16,4,Intel,B,Windows,SSD,512,14,No,Dell,Yes
+358,"38,990",16,4,Intel,10,Windows,SSD,512,16,No,HP,No
+359,"33,990",8,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+360,"16,990",8,5,Intel,10,Windows,SSD,512,15.6,Yes,Primebook,No
+361,"54,990",8,4,Intel,10,Windows,SSD,1000,16.1,No,HP,No
+362,"66,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,MSI,Yes
+363,"2,29,990",8,5,Intel,10,Mac,SSD,512,15.6,No,Apple,No
+364,"95,990",8,4,AMD,Not Mentioned,Windows,SSD,256,14,Yes,Asus,No
+365,"53,990",8,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+366,"52,490",4,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+367,"59,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15,No,HP,No
+368,"1,89,990",16,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Lenovo,Yes
+369,"29,990",16,3,Intel,10,Windows,SSD,512,15.6,No,Infinix,No
+370,"39,999",16,5,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+371,"43,975",8,4,Intel,10,Windows,SSD,256,16,No,Lenovo,No
+372,"36,490",8,4,Intel,10,Windows,SSD,1000,13.4,Yes,Dell,No
+373,"99,698",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,Yes
+374,"80,990",32,5,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+375,"1,87,001",8,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,Lenovo,Yes
+376,"84,990",8,4,Intel,10,Windows,SSD,512,16,No,MSI,Yes
+377,"18,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Primebook,No
+378,"2,41,990",8,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Asus,Yes
+379,"59,990",8,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Asus,No
+380,"49,990",16,5,Intel,10,Windows,SSD,1000,14,No,Lenovo,Yes
+381,"33,990",16,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+382,"39,990",32,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+383,"52,639",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+384,"79,990",4,4,Intel,10,Windows,SSD,512,10,No,Asus,No
+385,"25,990",32,5,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+386,"16,990",8,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Primebook,No
+387,"54,990",8,4,Intel,10,Windows,SSD,512,16,No,HP,No
+388,"2,25,090",8,4,Intel,10,Mac,SSD,512,16,No,Apple,No
+389,"53,499",4,4,Intel,10,Windows,SSD,512,15.5,No,HP,No
+390,"52,490",8,4,Intel,10,Windows,SSD,512,15,No,HP,No
+391,"59,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+392,"69,990",4,4,AMD,Not Mentioned,Windows,SSD,512,14,Yes,Lenovo,Yes
+393,"92,990",4,4,Intel,10,Windows,SSD,512,14,No,Asus,Yes
+394,"1,45,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,14,Yes,Asus,No
+395,"57,990",16,3,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Acer,No
+396,"33,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+397,"39,999",8,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+398,"1,99,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+399,"1,38,990",16,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Dell,Yes
+400,"1,12,990",16,4,Intel,10,Windows,Both,1000+256,14,No,HP,Yes
+401,"59,990",16,5,AMD,Not Mentioned,Windows,SSD,1000,15.5,No,Lenovo,No
+402,"97,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+403,"34,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Acer,No
+404,"1,14,990",8,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,MSI,No
+405,"64,700",16,5,Intel,10,Windows,SSD,512,15,No,HP,Yes
+406,"38,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+407,"1,85,990",16,5,Intel,10,Windows,SSD,512,16,No,MSI,No
+408,"55,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,No
+409,"94,500",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+410,"1,11,990",16,5,Intel,10,Mac,SSD,512,15.6,No,Apple,No
+411,"16,990",8,4,Intel,Not Mentioned,Windows,Both,1000+256,15.6,No,Primebook,No
+412,"45,890",16,5,Intel,10,Windows,SSD,512,14,No,Dell,No
+413,"2,02,490",16,4,Intel,10,Windows,SSD,1000,15.6,No,alienware,Yes
+414,"67,990",8,4,Intel,10,Windows,SSD,512,14,No,Dell,Yes
+415,"54,990",32,5,Intel,Not Mentioned,Windows,SSD,1000,14,No,HP,No
+416,"99,990",8,4,Intel,10,Windows,SSD,128,15.6,No,Asus,No
+417,"68,990",16,4,Intel,10,Windows,SSD,512,16,No,HP,No
+418,"49,990",16,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+419,"52,490",4,4,Intel,10,Windows,SSD,512,13.3,Yes,HP,No
+420,"78,680",8,4,Intel,10,Windows,SSD,512,13.3,No,HP,Yes
+421,"79,990",16,4,Intel,10,Windows,SSD,1000,11.6,No,Asus,Yes
+422,"1,05,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Dell,Yes
+423,"59,990",8,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+424,"1,61,990",16,5,Intel,10,Windows,SSD,256,15.6,No,Asus,Yes
+425,"59,990",8,4,Intel,10,Windows,Both,1000,15.6,No,HP,No
+426,"79,990",8,5,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+427,"18,990",8,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Primebook,No
+428,"1,29,990",8,5,Intel,10,Windows,SSD,512,14,No,Asus,No
+429,"59,990",16,4,Intel,B,Windows,SSD,512,15.6,No,Asus,No
+430,"78,061",16,5,Intel,10,Windows,SSD,1000,15.6,No,Dell,No
+431,"1,12,990",16,4,Intel,10,Windows,SSD,1000,16.1,No,HP,Yes
+432,"1,83,490",16,5,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,Yes
+433,"1,11,990",16,4,Intel,10,Mac,SSD,512,15.6,No,Apple,No
+434,"45,890",16,4,AMD,Not Mentioned,Windows,SSD,128,14,No,Dell,No
+435,"16,990",4,4,AMD,Not Mentioned,Windows,SSD,512,13.4,Yes,Primebook,No
+436,"2,02,490",16,5,Intel,10,Windows,SSD,512,14,No,alienware,Yes
+437,"67,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Dell,Yes
+438,"99,990",8,4,AMD,Not Mentioned,Windows,HDD,1000,11.6,No,Asus,No
+439,"18,990",16,4,Intel,10,Windows,SSD,512,13.3,No,Primebook,No
+440,"68,990",16,4,Intel,10,Windows,SSD,512,14,No,HP,No
+441,"49,990",16,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+442,"78,680",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+443,"54,990",4,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+444,"59,990",16,4,Intel,10,Windows,SSD,1000,13.3,No,Asus,No
+445,"78,061",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+446,"79,990",16,5,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Asus,Yes
+447,"66,990",4,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+448,"41,890",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+449,"3,09,490",8,5,Intel,10,Mac,SSD,1000,15.6,No,Apple,No
+450,"89,490",8,5,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,HP,No
+451,"96,990",8,4,Intel,10,Windows,SSD,512,11.6,No,MSI,Yes
+452,"29,290",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+453,"89,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+454,"1,57,375",16,4,Intel,10,Windows,SSD,512,16.1,No,Dell,Yes
+455,"78,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+456,"94,999",8,4,Intel,10,Windows,SSD,512,14,No,HP,Yes
+457,"1,89,990",32,3,AMD,Not Mentioned,Windows,SSD,256,14,Yes,Asus,Yes
+458,"99,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+459,"16,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+460,"40,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+461,"35,990",16,4,Intel,10,Windows,SSD,512,16,No,Realmebook,No
+462,"3,04,990",16,4,Intel,10,Windows,Both,1000+256,15.6,Yes,Dell,Yes
+463,"54,990",8,5,Intel,10,Windows,Both,1000+256,15.6,No,HP,No
+464,"16,990",16,5,AMD,Not Mentioned,Windows,SSD,512,11.6,Yes,Asus,No
+465,"96,990",16,5,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+466,"62,490",16,5,Intel,10,Windows,SSD,512,16,Yes,Dell,Yes
+467,"52,490",4,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+468,"1,71,990",8,4,Intel,10,Windows,SSD,512,16.1,No,Asus,Yes
+469,"1,29,490",8,4,Intel,10,Windows,SSD,1000,15.6,No,MSI,Yes
+470,"2,80,490",32,5,AMD,10,Windows,SSD,512,17.3,No,Dell,Yes
+471,"59,990",8,4,Intel,10,Windows,SSD,512,11.6,No,HP,No
+472,"20,990",4,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+473,"69,990",16,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+474,"64,200",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+475,"39,999",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,No
+476,"38,990",16,5,AMD,Not Mentioned,Windows,SSD,1000,11.6,Yes,Dell,No
+477,"40,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+478,"77,990",32,5,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+479,"18,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+480,"65,990",4,4,Intel,10,Windows,SSD,1000,13.4,Yes,Asus,Yes
+481,"86,990",16,4,Intel,10,Windows,SSD,2000,15.6,No,Lenovo,No
+482,"1,62,990",16,4,Intel,10,Windows,Both,1000+256,15.6,No,HP,Yes
+483,"16,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,Primebook,No
+484,"1,61,990",8,4,AMD,Not Mentioned,Windows,Both,1000,11.6,No,Asus,No
+485,"34,600",8,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+486,"1,04,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+487,"54,990",8,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+488,"70,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+489,"2,69,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,Asus,Yes
+490,"1,35,990",16,4,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+491,"52,490",16,5,AMD,Not Mentioned,Windows,SSD,512,14,Yes,HP,No
+492,"1,37,990",4,4,Intel,10,Mac,SSD,512,11.6,No,Apple,No
+493,"71,857",16,5,Intel,10,Windows,SSD,512,15.6,No,Dell,Yes
+494,"41,490",8,4,Intel,10,Windows,SSD,512,13.3,Yes,Dell,No
+495,"59,990",16,5,AMD,Not Mentioned,Windows,HDD,1000,16.1,No,HP,No
+496,"59,490",8,4,Intel,10,Windows,SSD,512,11.6,No,HP,Yes
+497,"26,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Acer,No
+498,"64,990",32,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+499,"43,975",16,4,Intel,10,Windows,SSD,512,14,Yes,Lenovo,No
+500,"86,990",8,4,Intel,7,Windows,SSD,512,15.6,No,MSI,Yes
+501,"57,990",8,3,AMD,Not Mentioned,Windows,SSD,512,16,No,Asus,No
+502,"87,390",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,Yes,Asus,Yes
+503,"84,990",8,4,Intel,10,Windows,Both,1000+256,15.6,Yes,MSI,Yes
+504,"1,37,990",16,4,Intel,10,Mac,SSD,512,15.6,No,Apple,No
+505,"71,857",8,4,Intel,7,Windows,SSD,1000,13,No,Dell,Yes
+506,"41,490",8,4,Intel,Not Mentioned,Windows,Both,1000+256,15.6,No,Dell,No
+507,"16,990",8,4,Intel,10,Windows,SSD,512,14,No,Primebook,No
+508,"59,490",8,4,Intel,10,Windows,SSD,512,14,No,HP,Yes
+509,"61,690",8,4,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+510,"1,07,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,Yes
+511,"54,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+512,"59,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,Yes
+513,"1,09,990",8,3,Intel,10,Mac,SSD,1000,15.6,No,Apple,No
+514,"1,09,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,Asus,No
+515,"52,490",8,4,Intel,10,Windows,Both,1000+128,15.6,No,HP,No
+516,"1,44,990",4,4,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+517,"1,59,990",8,4,Intel,10,Windows,SSD,512,13,No,Asus,No
+518,"1,05,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+519,"59,990",16,4,Intel,10,Windows,SSD,1000,14,No,HP,No
+520,"1,37,990",8,4,Intel,10,Mac,Both,1000+256,11.6,No,Apple,No
+521,"1,70,490",8,4,Intel,10,Windows,SSD,1000,15.6,No,HP,Yes
+522,"1,54,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Acer,Yes
+523,"18,990",16,5,Intel,10,Windows,SSD,512,16.1,No,Primebook,No
+524,"60,130",8,4,Intel,10,Windows,SSD,512,15.6,No,Acer,No
+525,"70,490",16,5,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+526,"1,54,990",32,5,Intel,10,Windows,HDD,1000,13.3,No,Asus,Yes
+527,"38,990",16,5,Intel,10,Windows,SSD,512,14,Yes,Lenovo,No
+528,"91,141",16,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+529,"33,990",8,3,Intel,Not Mentioned,Windows,SSD,256,13.4,No,Lenovo,No
+530,"60,990",16,5,Intel,10,Windows,SSD,1000,14,Yes,Lenovo,No
+531,"16,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Primebook,No
+532,"42,490",4,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,No
+533,"74,490",8,4,Intel,10,Windows,SSD,512,13,No,Dell,Yes
+534,"89,490",8,4,Intel,10,Windows,SSD,512,16.1,No,Dell,No
+535,"54,990",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+536,"79,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Acer,No
+537,"40,990",16,4,Intel,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+538,"35,990",8,4,Intel,10,Windows,SSD,1000,14,No,Lenovo,No
+539,"52,490",8,4,AMD,Not Mentioned,Windows,SSD,2000,14,No,HP,No
+540,"1,89,990",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,Yes
+541,"67,999",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+542,"62,490",16,8,Intel,10,Windows,SSD,512,15.6,No,HP,No
+543,"59,990",16,5,Intel,10,Windows,SSD,512,14,Yes,HP,No
+544,"45,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Dell,No
+545,"79,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Dell,Yes
+546,"51,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Dell,No
+547,"18,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,0,No,Primebook,No
+548,"75,990",8,4,AMD,Not Mentioned,Windows,SSD,256,0,No,MSI,Yes
+549,"1,57,900",8,4,Intel,10,Windows,SSD,512,16,Yes,Asus,Yes
+550,"42,490",16,5,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+551,"38,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,Yes,Lenovo,No
+552,"1,37,990",8,4,Intel,10,Mac,SSD,512,14,No,Apple,No
+553,"1,17,990",16,4,Intel,10,Windows,SSD,256,15.6,No,Asus,No
+554,"86,390",8,4,Intel,10,Windows,SSD,512,15.6,No,Dell,Yes
+555,"16,990",8,5,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Primebook,No
+556,"38,999",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+557,"1,29,990",4,4,Intel,10,Windows,SSD,512,14,No,Spectre,No
+558,"2,39,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+559,"54,990",32,5,AMD,Not Mentioned,Windows,SSD,2000,15.6,No,HP,No
+560,"87,490",4,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,HP,Yes
+561,"91,990",8,4,Intel,8,Windows,SSD,512,15.6,No,Asus,No
+562,"62,490",8,3,Intel,10,Windows,SSD,512,11.6,No,Dell,No
+563,"52,490",16,5,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,No
+564,"1,92,990",16,4,Intel,10,Windows,SSD,512,13.4,Yes,Lenovo,Yes
+565,"1,37,990",4,4,Intel,10,Windows,SSD,512,14,No,Asus,Yes
+566,"89,400",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,Yes
+567,"59,990",16,4,Intel,7,Windows,SSD,512,13,No,HP,No
+568,"67,990",32,5,Intel,10,Windows,SSD,512,14,No,Dell,No
+569,"1,37,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Apple,No
+570,"1,74,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+571,"18,990",16,4,Intel,10,Mac,SSD,512,11.6,No,Primebook,No
+572,"31,490",8,3,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+573,"35,990",8,4,Intel,10,Windows,SSD,512,13,No,Asus,No
+574,"42,690",8,4,AMD,Not Mentioned,Windows,SSD,512,16,No,Dell,No
+575,"33,990",32,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+576,"88,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,Yes
+577,"99,000",16,4,Intel,10,Windows,SSD,512,14,Yes,Dell,Yes
+578,"86,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+579,"16,990",16,4,Intel,8,Windows,SSD,1000,0,No,Primebook,No
+580,"71,990",8,3,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+581,"39,450",16,5,Intel,10,Windows,SSD,512,16,No,Lenovo,No
+582,"45,990",4,4,Intel,10,Windows,SSD,256,15.6,No,Asus,No
+583,"54,990",4,4,Intel,10,Windows,SSD,128,15.6,No,HP,No
+584,"1,29,990",8,4,Intel,10,Windows,Both,1000+128,14,No,MSI,No
+585,"1,85,000",8,4,Intel,10,Windows,SSD,512,15,No,Asus,Yes
+586,"1,50,490",8,4,Intel,10,Windows,SSD,512,13.3,No,Acer,Yes
+587,"52,490",16,4,Intel,10,Windows,SSD,512,14,Yes,HP,No
+588,"65,990",16,4,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+589,"42,490",16,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+590,"57,990",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,No
+591,"59,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+592,"18,990",8,4,Intel,10,Windows,SSD,512,15,No,Lenovo,No
+593,"1,09,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Apple,No
+594,"1,09,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+595,"18,990",16,5,Intel,10,Mac,SSD,1000,14,No,Primebook,No
+596,"1,31,990",32,5,Intel,10,Windows,SSD,512,11.6,No,Asus,Yes
+597,"38,690",16,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+598,"89,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,Yes
+599,"38,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+600,"39,750",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+601,"37,990",8,4,Intel,10,Windows,SSD,1000,16,No,Infinix,No
+602,"31,900",16,4,Intel,10,Windows,SSD,512,16,No,Asus,No
+603,"54,990",4,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+604,"38,690",8,4,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+605,"55,990",16,5,Intel,10,Windows,SSD,512,14,No,Acer,No
+606,"37,990",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+607,"52,490",16,5,Intel,10,Windows,SSD,512,15.6,No,HP,No
+608,"3,59,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+609,"69,490",16,5,Intel,Not Mentioned,Windows,Both,1000+256,14,Yes,Lenovo,No
+610,"75,890",8,4,Intel,10,Windows,SSD,512,13.3,No,Dell,Yes
+611,"59,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+612,"42,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Dell,No
+613,"62,990",8,4,Intel,10,Windows,SSD,512,13.4,Yes,Lenovo,No
+614,"56,478",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+615,"16,990",8,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,Primebook,No
+616,"62,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+617,"57,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+618,"69,990",8,4,Intel,7,Windows,SSD,512,14,No,Samsung,No
+619,"1,12,990",32,5,Intel,10,Windows,SSD,512,14,No,HP,Yes
+620,"44,890",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+621,"50,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+622,"1,04,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+623,"59,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Lenovo,No
+624,"44,890",16,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Dell,No
+625,"50,990",8,4,Intel,10,Windows,SSD,512,17.3,No,Lenovo,No
+626,"1,04,990",4,4,AMD,Not Mentioned,Windows,SSD,2000,15.6,No,Asus,No
+627,"16,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+628,"72,150",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+629,"1,44,990",16,4,AMD,Not Mentioned,Windows,SSD,512,0,No,Spectre,No
+630,"1,28,998",16,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+631,"54,990",8,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+632,"1,04,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+633,"49,852",16,5,AMD,Not Mentioned,Windows,Both,1000+256,14,No,Dell,No
+634,"1,04,990",16,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Lenovo,Yes
+635,"52,490",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+636,"48,990",8,4,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+637,"91,958",16,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Dell,No
+638,"1,64,990",4,4,Intel,10,Windows,SSD,,14,No,Acer,Yes
+639,"59,990",8,3,AMD,Not Mentioned,Windows,SSD,512,14,Yes,HP,No
+640,"56,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,Yes
+641,"59,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,No
+642,"69,990",8,4,Intel,10,Windows,SSD,1000,14,No,Asus,No
+643,"39,999",16,5,AMD,Not Mentioned,Windows,SSD,256,14,No,Lenovo,No
+644,"1,13,104",8,4,Intel,10,Windows,SSD,512,11.6,No,Dell,No
+645,"1,59,990",16,4,Intel,10,Windows,SSD,1000,13.3,No,Asus,No
+646,"1,62,490",8,4,Intel,8,Windows,SSD,256,16,Yes,Apple,No
+647,"1,12,990",8,4,Intel,10,Windows,SSD,512,16,No,HP,Yes
+648,"52,990",16,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+649,"71,990",16,5,Intel,8,Mac,SSD,512,13.3,No,Asus,No
+650,"1,04,990",16,4,Intel,8,Windows,SSD,1000,15.6,No,Asus,No
+651,"16,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+652,"1,29,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,No
+653,"53,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,Dell,No
+654,"39,990",8,4,Intel,10,Windows,SSD,2000,14,No,Acer,No
+655,"54,990",16,5,Intel,10,Windows,SSD,512,16,No,HP,No
+656,"1,40,131",32,5,Intel,8,Windows,SSD,512,14,No,Lenovo,No
+657,"31,990",8,3,Intel,10,Windows,SSD,512,15.6,No,Infinix,No
+658,"1,08,900",16,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+659,"59,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+660,"69,490",16,4,Intel,10,Windows,SSD,512,15.6,No,Dell,Yes
+661,"76,990",16,5,Intel,10,Windows,SSD,512,13.3,No,Lenovo,Yes
+662,"45,990",4,4,Intel,Not Mentioned,Windows,Both,1000+256,14,Yes,Dell,No
+663,"52,490",16,5,Intel,10,Windows,SSD,512,13.3,No,HP,No
+664,"84,990",8,4,Intel,10,Windows,SSD,256,15.6,No,Acer,No
+665,"22,990",4,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+666,"73,490",8,4,Intel,10,Windows,SSD,512,13.3,No,Dell,Yes
+667,"18,990",16,4,Intel,10,Windows,SSD,1000,14,Yes,Primebook,No
+668,"35,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+669,"92,990",16,5,Intel,10,Windows,SSD,512,14,Yes,Acer,Yes
+670,"48,499",16,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+671,"39,999",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+672,"1,04,990",8,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Asus,No
+673,"1,09,990",4,4,Intel,10,Windows,SSD,512,15,No,Asus,No
+674,"65,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+675,"43,975",16,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+676,"83,500",4,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,Asus,No
+677,"1,29,990",8,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+678,"23,990",4,4,Intel,10,Windows,SSD,128,15.6,No,HP,No
+679,"16,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+680,"69,990",16,5,Intel,10,Windows,SSD,512,15.6,No,MSI,No
+681,"42,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,Yes,HP,No
+682,"73,990",8,4,Intel,10,Windows,SSD,512,14,Yes,Acer,Yes
+683,"54,990",16,5,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,HP,No
+684,"36,480",16,5,AMD,Not Mentioned,Windows,Both,1000+256,11.6,No,Lenovo,No
+685,"23,500",16,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,Acer,No
+686,"62,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+687,"66,990",16,4,Intel,8,DOS,SSD,512,15.6,No,MSI,Yes
+688,"1,19,990",16,5,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Acer,No
+689,"1,05,770",4,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+690,"56,990",4,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+691,"96,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,MSI,Yes
+692,"3,99,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+693,"42,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Acer,No
+694,"86,850",8,4,Intel,10,Windows,SSD,512,17.3,No,Asus,Yes
+695,"78,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+696,"1,50,990",4,4,Intel,10,Windows,SSD,1000,11.6,No,Asus,No
+697,"37,990",16,4,Intel,10,Windows,SSD,1000,14,No,Lenovo,No
+698,"72,999",16,4,AMD,Not Mentioned,Windows,SSD,512,14,No,Dell,No
+699,"16,990",8,3,Intel,10,Windows,SSD,1000,15.6,No,Primebook,No
+700,"1,45,990",16,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+701,"54,990",8,5,Intel,10,DOS,SSD,128,15.6,No,HP,No
+702,"42,890",16,5,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+703,"39,999",32,5,AMD,Not Mentioned,Windows,SSD,512,16,No,Lenovo,No
+704,"1,00,889",8,4,Intel,10,Windows,SSD,1000,15.6,No,HP,Yes
+705,"1,45,990",16,4,Intel,10,Windows,SSD,1000,14,Yes,Asus,Yes
+706,"29,990",8,5,Intel,10,Windows,SSD,256,14,No,Infinix,No
+707,"54,990",16,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+708,"1,59,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+709,"3,04,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,17.3,No,Asus,No
+710,"68,990",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,Yes
+711,"52,490",16,5,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+712,"38,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+713,"40,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+714,"69,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+715,"59,990",16,5,Intel,10,Windows,SSD,512,16,No,HP,No
+716,"95,900",16,5,Intel,10,Windows,SSD,512,11.6,No,HP,Yes
+717,"93,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+718,"70,990",8,4,AMD,Not Mentioned,Windows,Both,1000+256,14,No,Acer,Yes
+719,"33,990",16,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+720,"74,990",32,5,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+721,"92,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,16.1,No,Acer,Yes
+722,"2,19,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+723,"16,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Primebook,No
+724,"76,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,No
+725,"89,990",16,4,AMD,Not Mentioned,Windows,SSD,512,16,No,Asus,No
+726,"35,990",16,4,Intel,10,Windows,SSD,128,16,No,Lenovo,No
+727,"54,990",16,4,Intel,7,Windows,SSD,512,15.6,No,HP,No
+728,"1,36,590",8,4,Intel,10,Windows,SSD,512,15.6,No,Spectre,No
+729,"65,499",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+730,"44,990",8,4,Intel,10,Windows,SSD,512,14,No,Avita,No
+731,"52,490",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+732,"2,46,490",8,4,AMD,Not Mentioned,Windows,Both,1000+256,14,No,Dell,Yes
+733,"71,990",32,5,Intel,8,Windows,SSD,512,15.6,No,Asus,Yes
+734,"22,990",4,4,Intel,10,Windows,SSD,512,14,No,Infinix,No
+735,"59,990",8,4,Intel,Not Mentioned,Windows,SSD,1000,15.6,No,HP,No
+736,"65,990",16,4,Intel,10,Windows,SSD,512,15,No,MSI,Yes
+737,"2,39,759",4,4,Intel,8,Windows,SSD,512,13.3,No,Spectre,No
+738,"55,999",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+739,"66,990",8,4,Intel,10,Windows,SSD,512,16,No,MSI,Yes
+740,"63,990",8,4,Intel,10,Windows,SSD,512,11.6,No,MSI,Yes
+741,"97,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.5,No,Asus,No
+742,"1,42,491",8,4,Intel,Not Mentioned,Windows,SSD,512,14,No,Lenovo,Yes
+743,"43,975",32,5,Intel,10,Windows,Both,1000+128,15.6,No,Lenovo,No
+744,"4,31,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+745,"53,490",4,4,AMD,Not Mentioned,Windows,SSD,512,13.3,Yes,Dell,No
+746,"62,490",16,4,Intel,10,Windows,Both,1000+256,15.6,No,Dell,No
+747,"16,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Primebook,No
+748,"1,29,990",16,3,Intel,10,Windows,SSD,512,15.6,No,Acer,Yes
+749,"4,37,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+750,"1,69,990",16,4,Intel,10,Windows,SSD,1000,17.3,No,Asus,No
+751,"54,990",8,4,AMD,Not Mentioned,Windows,SSD,512,14,No,HP,No
+752,"1,29,990",16,5,AMD,Not Mentioned,Windows,SSD,512,14,No,Asus,No
+753,"1,52,990",8,5,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+754,"1,39,990",8,4,Intel,8,Windows,SSD,512,13.3,Yes,Asus,No
+755,"52,490",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+756,"2,39,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+757,"92,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Dell,Yes
+758,"16,990",4,4,Intel,10,Windows,SSD,256,14,No,Avita,No
+759,"59,990",16,5,Intel,10,Windows,SSD,512,16,No,HP,No
+760,"1,74,490",16,5,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+761,"1,74,990",16,4,Intel,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+762,"2,09,990",8,4,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Asus,No
+763,"33,990",16,4,AMD,Not Mentioned,Windows,SSD,1000,16,No,Lenovo,No
+764,"82,990",16,5,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Acer,Yes
+765,"37,990",16,5,AMD,Not Mentioned,Windows,SSD,512,16,No,Asus,No
+766,"1,79,990",8,4,Intel,Not Mentioned,Windows,SSD,512,17.3,No,Asus,No
+767,"38,990",32,4,Intel,10,Windows,SSD,512,16,No,Lenovo,No
+768,"1,39,990",16,8,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+769,"1,15,990",16,5,Intel,10,Windows,Both,1000+256,15.6,No,Asus,No
+770,"16,990",4,4,Intel,10,Windows,SSD,512,16,No,Primebook,No
+771,"18,990",16,4,Intel,10,Windows,SSD,512,16,No,Primebook,No
+772,"84,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,Yes
+773,"4,31,990",16,5,Intel,10,Windows,SSD,512,13.4,Yes,Asus,No
+774,"53,490",16,5,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Dell,No
+775,"62,490",8,4,AMD,Not Mentioned,Windows,Both,1000+256,0,No,Dell,No
+776,"54,990",16,5,Intel,10,Windows,SSD,512,0,No,HP,No
+777,"66,990",8,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,MSI,Yes
+778,"1,04,990",16,4,AMD,10,Windows,SSD,512,14,No,Dell,Yes
+779,"36,990",8,4,Intel,Not Mentioned,Windows,SSD,1000,15.6,No,Acer,No
+780,"96,990",16,5,Intel,10,Windows,SSD,512,17.3,No,MSI,Yes
+781,"78,990",16,4,Intel,10,Windows,SSD,128,13.4,No,MSI,Yes
+782,"1,50,990",4,4,Intel,10,Windows,SSD,512,15,No,Asus,No
+783,"1,60,000",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+784,"1,09,490",8,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Dell,Yes
+785,"99,990",16,4,Intel,Not Mentioned,Windows,HDD,1000,16,No,Surface,No
+786,"81,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,MSI,Yes
+787,"64,990",16,4,Intel,10,Windows,SSD,512,16,No,HP,Yes
+788,"79,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,Yes
+789,"65,990",16,4,Intel,10,Windows,SSD,512,11.6,No,Acer,Yes
+790,"39,999",16,4,Intel,10,Windows,SSD,2000,11.6,No,Lenovo,No
+791,"84,990",8,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+792,"61,990",16,5,Intel,10,Windows,SSD,1000,15.6,No,Lenovo,No
+793,"99,990",8,5,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Asus,No
+794,"65,990",16,5,Intel,10,Windows,SSD,512,16,No,Asus,Yes
+795,"16,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+796,"1,44,499",16,5,Intel,10,Windows,SSD,512,15.6,No,Spectre,No
+797,"52,990",8,4,AMD,10,Windows,SSD,512,15.6,No,Surface,No
+798,"50,963",16,5,Intel,8,Windows,SSD,512,15.6,No,Dell,No
+799,"18,990",16,4,Intel,10,Windows,SSD,256,15.6,No,Primebook,No
+800,"79,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Samsung,Yes
+801,"39,990",8,4,Intel,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+802,"63,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+803,"54,990",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+804,"1,12,990",8,4,Intel,10,Windows,SSD,512,15,Yes,MSI,Yes
+805,"66,990",16,5,Intel,9,Windows,SSD,512,15.6,No,Asus,No
+806,"33,990",8,4,Intel,10,Windows,SSD,256,15,No,Asus,No
+807,"66,990",4,4,Intel,10,Windows,SSD,256,15.6,No,MSI,Yes
+808,"65,850",16,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+809,"40,300",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+810,"64,990",8,4,AMD,10,Windows,SSD,512,15.6,No,Acer,No
+811,"96,990",4,4,AMD,5,Windows,SSD,512,14,Yes,MSI,Yes
+812,"79,290",8,4,Intel,8,Windows,SSD,256,13.3,Yes,Acer,No
+813,"1,49,990",8,5,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+814,"61,990",16,4,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+815,"78,990",8,4,Intel,10,Windows,SSD,256,16,Yes,MSI,Yes
+816,"16,990",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Primebook,No
+817,"54,990",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+818,"1,80,990",8,4,Intel,10,Windows,SSD,512,11.6,No,Asus,No
+819,"31,999",16,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+820,"18,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+821,"52,490",8,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+822,"51,999",8,3,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+823,"2,34,990",16,5,Intel,10,Windows,SSD,1000,15.6,No,Asus,No
+824,"41,590",8,4,Intel,10,Windows,SSD,512,14,Yes,Dell,No
+825,"96,990",16,4,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+826,"39,999",16,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,No
+827,"59,990",8,5,Intel,10,Windows,Both,1000+256,15.6,No,HP,No
+828,"81,990",4,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+829,"1,05,999",8,4,Intel,10,Windows,SSD,512,14,No,HP,Yes
+830,"43,975",16,4,AMD,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,No
+831,"66,990",8,4,Intel,10,Windows,SSD,1000,14,Yes,MSI,Yes
+832,"78,990",4,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+833,"88,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,MSI,Yes
+834,"86,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,MSI,Yes
+835,"78,990",32,4,Intel,B,Windows,SSD,512,11.6,No,MSI,Yes
+836,"84,990",8,4,Intel,10,Windows,SSD,512,15.6,No,MSI,Yes
+837,"96,990",16,5,Intel,Not Mentioned,Windows,SSD,512,14,No,MSI,Yes
+838,"1,17,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+839,"22,990",16,4,Intel,10,Windows,SSD,512,11.6,No,HP,No
+840,"1,51,990",16,5,AMD,Not Mentioned,Windows,SSD,256,15.6,No,Asus,Yes
+841,"28,990",16,5,Intel,10,Windows,SSD,512,14,Yes,HP,No
+842,"1,66,990",8,4,Intel,10,Windows,SSD,512,13.4,Yes,Asus,No
+843,"16,990",16,4,Intel,10,Windows,SSD,512,15.6,No,Primebook,No
+844,"74,990",8,4,Intel,8,Windows,SSD,512,15.6,No,Asus,No
+845,"16,990",8,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Avita,No
+846,"85,990",16,5,Intel,10,Windows,SSD,512,14,No,Asus,No
+847,"54,990",8,5,Intel,10,Windows,SSD,512,15.6,No,HP,No
+848,"34,490",16,4,Intel,10,Windows,SSD,512,16.1,No,HP,No
+849,"45,280",16,4,Intel,10,Windows,SSD,256,15.6,No,HP,No
+850,"64,990",16,5,Intel,10,Windows,SSD,512,15.6,No,Samsung,No
+851,"52,490",4,4,Intel,10,Windows,SSD,256,14,No,HP,No
+852,"79,990",32,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Asus,No
+853,"61,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,No
+854,"3,69,990",16,5,AMD,Not Mentioned,DOS,SSD,512,15.6,No,Asus,No
+855,"59,990",4,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+856,"2,27,990",16,4,Intel,10,Windows,HDD,2000,15.6,No,Asus,No
+857,"78,990",4,4,Intel,10,Windows,SSD,1000,14,No,Asus,No
+858,"20,990",16,5,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+859,"38,990",8,4,Intel,8,Windows,SSD,512,13.4,Yes,Lenovo,No
+860,"1,02,490",8,4,AMD,Not Mentioned,Windows,SSD,1000,14,No,MSI,Yes
+861,"1,01,299",8,4,Intel,10,Windows,SSD,512,15.6,No,Surface,No
+862,"82,500",16,4,AMD,Not Mentioned,Windows,SSD,512,11.6,No,HP,No
+863,"43,975",8,4,Intel,10,Windows,SSD,512,14,Yes,Lenovo,No
+864,"41,999",16,4,Intel,Not Mentioned,Windows,SSD,1000,14,No,Acer,No
+865,"40,990",16,4,Intel,10,Windows,SSD,1000,14,No,Lenovo,No
+866,"70,430",32,5,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,Yes
+867,"16,990",16,4,Intel,10,Windows,SSD,1000,15.6,No,Primebook,No
+868,"87,990",16,5,AMD,Not Mentioned,Windows,SSD,512,14,No,Asus,Yes
+869,"1,88,490",16,4,Intel,10,Windows,HDD,1000,15.6,No,alienware,Yes
+870,"1,03,990",4,4,Intel,7,Windows,SSD,512,15.6,No,HP,No
+871,"54,990",8,4,Intel,10,Windows,SSD,512,14,Yes,HP,No
+872,"35,990",16,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,Infinix,No
+873,"39,990",8,5,Intel,10,Windows,SSD,512,16,No,Dell,No
+874,"60,990",8,4,Intel,Not Mentioned,Windows,SSD,1000,14,No,Samsung,No
+875,"52,490",8,4,AMD,Not Mentioned,Windows,SSD,1000,13.4,Yes,HP,No
+876,"57,990",4,4,Intel,8,Windows,SSD,512,14,No,HP,No
+877,"86,990",8,5,AMD,Not Mentioned,Windows,SSD,512,11.6,No,Asus,Yes
+878,"69,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,HP,No
+879,"59,990",4,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+880,"59,990",16,4,Intel,10,Windows,SSD,512,0,No,Infinix,No
+881,"30,200",16,4,Intel,10,Windows,HDD,1000,13.3,Yes,HP,No
+882,"57,490",16,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+883,"39,999",8,4,Intel,10,Windows,SSD,1000,14,No,Lenovo,No
+884,"78,290",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Dell,Yes
+885,"1,65,490",8,4,Intel,10,Windows,SSD,512,15.6,No,Lenovo,Yes
+886,"61,900",8,4,AMD,10,Windows,SSD,512,11.6,No,Dell,No
+887,"33,990",8,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,Lenovo,No
+888,"61,900",8,4,Intel,10,Windows,SSD,512,15.6,No,Dell,No
+889,"1,29,990",16,5,Intel,8,Windows,SSD,512,15.6,No,Asus,No
+890,"60,550",8,3,Intel,10,Windows,SSD,512,13.3,Yes,Asus,Yes
+891,"16,990",16,4,Intel,10,Windows,HDD,1000,15.6,No,Primebook,No
+892,"61,990",16,5,Intel,10,Windows,Both,1000+256,14,No,Asus,Yes
+893,"66,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+894,"59,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Asus,No
+895,"54,990",8,4,Intel,8,Windows,SSD,512,15.6,No,HP,No
+896,"97,500",16,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,Yes
+897,"1,51,990",16,4,Intel,8,Windows,SSD,512,15.6,No,Asus,No
+898,"1,64,990",16,4,Intel,10,Windows,SSD,512,13.3,No,Lenovo,Yes
+899,"52,490",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+900,"1,32,000",16,4,,Not Mentioned,Windows,HDD,1000,15.6,No,Acer,Yes
+901,"1,29,990",16,5,,Not Mentioned,Windows,SSD,512,14,No,Dell,Yes
+902,"74,990",16,4,,Not Mentioned,Windows,SSD,512,14,No,Acer,Yes
+903,"59,990",4,4,,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+904,"54,999",8,4,,Not Mentioned,Windows,SSD,512,15.6,No,Dell,No
+905,"62,990",8,3,,Not Mentioned,Windows,SSD,1000,15.6,No,Lenovo,Yes
+906,"71,990",16,4,,Not Mentioned,Windows,SSD,512,14,No,Acer,Yes
+907,"33,990",8,4,,Not Mentioned,Windows,SSD,512,15,No,Lenovo,No
+908,"39,988",16,4,,Not Mentioned,Windows,SSD,512,14,No,Lenovo,No
+909,"46,990",16,5,,Not Mentioned,Windows,SSD,512,15.6,No,Lenovo,No
+910,"70,980",16,5,,Not Mentioned,Windows,SSD,512,15.6,No,HP,Yes
+911,"43,975",8,4,,Not Mentioned,Windows,Not Both,,11.6,No,Lenovo,No
+912,"1,15,000",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+913,"71,490",16,4,,Not Mentioned,Windows,Not Both,,13.3,No,Dell,Yes
+914,"45,988",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Lenovo,No
+915,"16,990",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Primebook,No
+916,"37,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Lenovo,No
+917,"39,999",8,4,,Not Mentioned,Windows,Not Both,,16,Yes,Dell,No
+918,"20,990",8,4,,Not Mentioned,Windows,Not Both,,10,No,HP,No
+919,"54,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,HP,No
+920,"42,500",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,No
+921,"53,999",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,HP,Yes
+922,"96,999",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,Yes
+923,"52,490",8,4,,Not Mentioned,DOS,Not Both,,15.6,No,HP,No
+924,"36,990",16,5,,Not Mentioned,Windows,Not Both,,14,No,Infinix,No
+925,"64,821",8,5,,Not Mentioned,Windows,Not Both,,14,Yes,Lenovo,Yes
+926,"94,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+927,"59,990",4,4,,Not Mentioned,Windows,Not Both,,15.6,No,HP,No
+928,"69,490",8,4,,Not Mentioned,Windows,Not Both,,15,No,Dell,No
+929,"1,16,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+930,"55,490",8,4,,Not Mentioned,Windows,Not Both,,13,No,HP,No
+931,"38,990",4,4,,Not Mentioned,Windows,Not Both,,15.6,No,Lenovo,No
+932,"36,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Infinix,No
+933,"52,490",8,4,,Not Mentioned,Windows,Not Both,,14,Yes,Dell,No
+934,"1,59,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,MSI,Yes
+935,"43,975",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Lenovo,No
+936,"94,990",8,4,,Not Mentioned,Windows,Not Both,,11.6,No,Asus,No
+937,"1,09,990",16,4,,Not Mentioned,Windows,Not Both,,14,No,Asus,No
+938,"57,490",8,4,,Not Mentioned,Windows,Not Both,,14,No,Asus,No
+939,"16,990",16,5,,Not Mentioned,Windows,Not Both,,14,No,Primebook,No
+940,"1,74,990",16,4,,Not Mentioned,Windows,Not Both,,14,Yes,Asus,No
+941,"1,14,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,No
+942,"31,999",16,5,,Not Mentioned,Windows,Not Both,,14,No,HP,No
+943,"54,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,HP,No
+944,"1,71,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+945,"2,97,000",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,Yes
+946,"20,990",8,4,,Not Mentioned,Windows,Not Both,,14,No,Acer,No
+947,"52,490",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,HP,No
+948,"60,500",8,4,,Not Mentioned,Windows,Not Both,,13.4,Yes,HP,Yes
+949,"1,99,999",16,5,,Not Mentioned,Windows,Not Both,,14,No,Asus,No
+950,"51,800",8,3,,Not Mentioned,Windows,Not Both,,16,No,Asus,No
+951,"59,990",8,4,,Not Mentioned,Windows,Not Both,,14,Yes,HP,No
+952,"66,990",4,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,Yes
+953,"93,990",16,5,,Not Mentioned,Windows,Not Both,,15.6,No,HP,No
+954,"1,38,200",16,3,,Not Mentioned,Windows,Not Both,,14,No,HP,Yes
+955,"66,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,MSI,Yes
+956,"67,420",8,4,,Not Mentioned,Windows,Not Both,,16,No,Asus,No
+957,"61,990",16,5,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+958,"46,490",32,4,,Not Mentioned,Windows,Not Both,,13.4,Yes,Dell,Yes
+959,"43,975",4,4,,Not Mentioned,Windows,Not Both,,14,No,Lenovo,No
+960,"1,12,440",8,4,,Not Mentioned,Windows,Not Both,,14,No,Asus,No
+961,"89,290",8,4,,Not Mentioned,Windows,Not Both,,11.6,No,Dell,Yes
+962,"41,990",16,5,,Not Mentioned,Windows,Not Both,,16,No,Dell,No
+963,"16,990",8,4,,Not Mentioned,Windows,Not Both,,13.3,No,Primebook,No
+964,"60,990",16,4,,Not Mentioned,Windows,Not Both,,14,No,Dell,No
+965,"51,990",8,4,,Not Mentioned,DOS,Not Both,,15.6,No,Asus,No
+966,"44,290",16,4,,Not Mentioned,Windows,Not Both,,16,Yes,Dell,No
+967,"54,990",16,5,,Not Mentioned,Windows,Not Both,,17.3,No,HP,No
+968,"74,990",16,4,,Not Mentioned,Windows,Not Both,,14,No,Acer,Yes
+969,"67,990",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+970,"39,999",16,5,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+971,"52,490",8,4,,Not Mentioned,Windows,Not Both,,16,No,HP,No
+972,"52,490",8,4,,Not Mentioned,Windows,Not Both,,14,No,Lenovo,Yes
+973,"45,990",16,5,,Not Mentioned,Windows,Not Both,,14,No,Asus,No
+974,"1,04,100",16,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,No
+975,"59,990",8,4,,Not Mentioned,Windows,Not Both,,13.3,Yes,HP,No
+976,"59,990",4,4,,Not Mentioned,Windows,Not Both,,16.1,No,Dell,No
+977,"1,37,990",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Spectre,No
+978,"50,490",8,5,,Not Mentioned,Windows,Not Both,,15.6,No,Asus,No
+979,"43,975",4,4,,Not Mentioned,Windows,Not Both,,15.6,No,Lenovo,No
+980,"86,000",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Lenovo,No
+981,"55,900",8,4,,Not Mentioned,Windows,Not Both,,15.6,No,Dell,No
+982,"38,990",16,4,,Not Mentioned,Windows,Not Both,,14,Yes,Infinix,No
+983,"1,02,990",8,4,Intel,10,Windows,SSD,512,13.3,Yes,Spectre,No
+984,"55,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,Yes
+985,"56,990",8,4,Intel,9,Windows,SSD,512,15.6,No,Acer,Yes
+986,"42,990",8,4,AMD,2,Windows,SSD,512,14,No,Asus,No
+987,"52,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+988,"59,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,Yes
+989,"64,990",8,4,Intel,9,Windows,Both,1000+256,15.6,No,Asus,Yes
+990,"94,990",8,4,Intel,10,Windows,SSD,1000,15.6,No,Asus,Yes
+991,"75,990",16,4,Intel,9,Windows,SSD,512,15.6,No,Asus,Yes
+992,"53,990",8,4,Intel,8,Windows,Both,1000+256,14,No,Asus,No
+993,"50,990",4,4,Intel,10,Windows,SSD,256,14,Yes,HP,No
+994,"84,990",8,4,Intel,9,Windows,Both,1000+512,15.6,No,Dell,Yes
+995,"54,990",8,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,HP,Yes
+996,"47,990",8,3,Intel,8,Windows,SSD,256,14,No,Asus,No
+997,"54,990",8,4,Intel,8,Windows,SSD,512,14,No,Acer,Yes
+998,"59,990",8,4,Intel,10,Windows,Both,1000+128,14,No,Lenovo,No
+999,"52,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+1000,"46,990",8,4,AMD,3,Windows,Both,1000+256,14,No,HP,No
+1001,"59,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,Yes
+1002,"52,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Asus,Yes
+1003,"63,990",8,4,Intel,10,Windows,Both,1000+256,14,No,HP,No
+1004,"60,990",8,4,Intel,9,Windows,SSD,512,15.6,No,MSI,Yes
+1005,"59,990",8,4,Intel,8,Windows,SSD,512,15.6,No,Asus,Yes
+1006,"54,990",8,4,Intel,8,Windows,SSD,512,13.3,No,Acer,No
+1007,"54,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,No
+1008,"65,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Lenovo,Yes
+1009,"85,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,Yes
+1010,"52,490",4,4,Intel,10,Windows,Both,1000+256,15.6,No,HP,No
+1011,"78,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Lenovo,Yes
+1012,"54,990",8,4,Intel,8,Windows,SSD,512,14,No,Acer,Yes
+1013,"89,990",16,4,Intel,8,Windows,Both,1000+128,15.6,No,Acer,Yes
+1014,"73,990",8,4,Intel,10,Windows,Both,1000+256,14,Yes,HP,No
+1015,"59,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,Yes
+1016,"47,990",8,3,Intel,8,Windows,SSD,256,14,No,Asus,No
+1017,"1,74,900",16,4,Intel,10,Mac,SSD,512,13,No,Apple,No
+1018,"54,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,No
+1019,"55,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,No
+1020,"61,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Acer,Yes
+1021,"56,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Lenovo,No
+1022,"82,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Lenovo,Yes
+1023,"59,437",4,4,Intel,10,Windows,Both,1000+256,14,Yes,Dell,No
+1024,"44,760",8,4,Intel,8,Windows,HDD,1000,15.6,No,Asus,Yes
+1025,"55,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,Yes
+1026,"99,990",16,4,Intel,9,Windows,SSD,512,15.6,No,MSI,Yes
+1027,"45,990",8,4,Intel,8,Windows,HDD,1000,15.6,No,Lenovo,No
+1028,"51,990",4,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+1029,"33,250",4,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,HP,No
+1030,"74,397",8,3,Intel,5,Mac,SSD,128,13.3,No,Apple,No
+1031,"55,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,Yes
+1032,"52,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+1033,"82,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Lenovo,Yes
+1034,"1,02,990",8,4,Intel,10,Windows,SSD,512,13.3,Yes,Spectre,No
+1035,"96,657",8,4,Intel,10,Windows,SSD,128,13,Yes,Surface,No
+1036,"72,990",8,4,Intel,10,Windows,SSD,512,14,No,HP,No
+1037,"51,990",4,4,Intel,10,Windows,SSD,512,14,Yes,Asus,No
+1038,"54,990",8,3,Intel,8,Windows,SSD,256,14,No,Asus,No
+1039,"96,990",8,4,Intel,9,Windows,Both,1000+256,17.3,No,Acer,Yes
+1040,"56,990",8,4,Intel,10,Windows,SSD,512,14,No,Asus,No
+1041,"29,990",4,4,Intel,8,DOS,HDD,1000,15.6,No,Lenovo,No
+1042,"41,990",8,3,Intel,Not Mentioned,Windows,SSD,256,13.3,No,MarQ,No
+1043,"53,990",8,4,Intel,8,Windows,Both,1000+256,14,No,Asus,No
+1044,"1,99,900",16,4,Intel,9,Mac,SSD,512,16,No,Apple,Yes
+1045,"64,990",8,3,Intel,8,Windows,SSD,256,14,Yes,Acer,No
+1046,"75,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,Yes
+1047,"57,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,No
+1048,"45,990",4,4,Intel,8,Windows,SSD,256,13.3,No,Acer,No
+1049,"96,657",8,4,Microsoft,Not Mentioned,Windows,SSD,128,13,Yes,Surface,No
+1050,"1,94,900",16,4,Intel,10,Mac,SSD,1000,13,No,Apple,No
+1051,"51,990",8,4,AMD,Not Mentioned,Windows,Both,1000+128,15.6,No,HP,Yes
+1052,"52,990",8,4,Intel,10,Windows,HDD,,14,No,HP,No
+1053,"37,990",4,4,Intel,8,Windows,HDD,1000,15.6,No,HP,Yes
+1054,"73,990",8,4,Intel,9,Windows,Both,1000+256,15.6,No,Lenovo,Yes
+1055,"51,990",8,4,AMD,Not Mentioned,Windows,Both,1000+128,15.6,No,HP,Yes
+1056,"1,75,200",16,4,Intel,10,Windows,SSD,1000,13.3,Yes,Spectre,No
+1057,"49,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,Lenovo,No
+1058,"69,990",8,4,Intel,8,Windows,HDD,1000,15.6,No,Acer,Yes
+1059,"43,990",4,4,Intel,7,Windows,HDD,1000,15.6,No,Lenovo,No
+1060,"74,910",8,4,AMD,2,Windows,SSD,512,14,Yes,Asus,No
+1061,"29,990",4,4,Intel,8,DOS,HDD,1000,15.6,No,Lenovo,No
+1062,"37,690",4,4,Intel,10,Windows,HDD,1000,15.6,No,HP,No
+1063,"26,990",4,4,AMD,Not Mentioned,Windows,HDD,1000,14,No,Asus,No
+1064,"27,420",4,4,Intel,Not Mentioned,Windows,HDD,1000,14,No,Acer,No
+1065,"29,990",4,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,HP,No
+1066,"40,990",8,4,Intel,10,Windows,HDD,1000,14,No,Lenovo,No
+1067,"53,859",8,4,Intel,10,Windows,Both,1000+256,14,No,Dell,No
+1068,"48,240",4,4,Intel,8,Windows,SSD,256,14,Yes,HP,No
+1069,"41,990",8,3,Intel,7,Windows,SSD,128,14,No,Avita,No
+1070,"59,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,HP,Yes
+1071,"99,990",8,3,Intel,10,Windows,SSD,512,14,No,Asus,Yes
+1072,"53,990",8,4,Intel,10,Windows,Both,1000+256,15.6,No,HP,No
+1073,"52,990",8,4,Intel,10,Windows,SSD,512,15.6,No,HP,No
+1074,"1,12,990",8,3,Intel,7,Mac,SSD,256,12,No,Apple,No
+1075,"2,44,191",32,4,Intel,9,Windows,SSD,1000,15.6,Yes,Asus,Yes
+1076,"34,490",4,4,Intel,10,Windows,SSD,256,14,No,HP,No
+1077,"32,990",4,4,Intel,10,Windows,HDD,1000,14,No,Lenovo,No
+1078,"72,990",8,4,Intel,8,Windows,SSD,512,15.6,No,Asus,Yes
+1079,"83,458",8,4,Intel,8,Windows,SSD,512,13.3,No,Lenovo,No
+1080,"46,850",8,4,Intel,10,Windows,HDD,1000,15.6,No,HP,No
+1081,"2,39,900",16,4,Intel,9,Mac,SSD,1000,16,No,Apple,Yes
+1082,"1,02,990",8,4,Intel,10,Windows,SSD,512,13.3,Yes,Spectre,No
+1083,"81,351",8,3,Intel,8,Windows,SSD,512,13.3,No,Asus,No
+1084,"55,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,No
+1085,"55,139",4,4,Intel,8,Windows,HDD,1000,15.6,No,Lenovo,Yes
+1086,"55,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,Yes
+1087,"1,89,990",16,4,Intel,8,Windows,Both,1000+512,17.3,No,alienware,Yes
+1088,"38,599",4,3,Intel,Not Mentioned,Windows,SSD,128,10,Yes,Surface,No
+1089,"93,999",8,4,AMD,Not Mentioned,Windows,SSD,128,15,Yes,Surface,No
+1090,"47,990",8,4,AMD,Not Mentioned,Windows,Both,1000+256,15.6,No,Asus,No
+1091,"35,990",4,4,Intel,10,Windows,SSD,256,14,No,Asus,No
+1092,"54,990",8,4,Intel,8,Windows,SSD,512,14,No,Acer,Yes
+1093,"32,990",4,4,Intel,7,Windows,HDD,1000,15.6,No,Lenovo,No
+1094,"39,990",4,4,Intel,10,Windows,HDD,1000,15.6,No,HP,No
+1095,"35,990",4,4,Intel,10,Windows,SSD,256,14,No,Asus,No
+1096,"47,990",8,3,Intel,8,Windows,SSD,256,14,No,Asus,No
+1097,"25,990",4,4,AMD,Not Mentioned,Windows,HDD,1000,15.6,No,HP,No
+1098,"53,990",8,4,Intel,8,Windows,Both,1000+256,14,No,Asus,No
+1099,"43,990",8,4,Intel,8,Linux,HDD,1000,14,No,Dell,Yes
+1100,"56,990",8,4,Intel,9,Windows,HDD,1000,15.6,No,Lenovo,Yes
+1101,"57,990",8,4,Intel,10,Windows,SSD,512,15.6,No,Acer,Yes
+1102,"71,990",8,4,Intel,9,Windows,SSD,1000,15.6,No,Asus,Yes
+1103,"99,990",8,3,Intel,10,Windows,SSD,512,14,No,Asus,Yes
+1104,"51,990",8,4,AMD,Not Mentioned,Windows,Both,1000+128,15.6,No,HP,Yes
+1105,"40,990",8,4,Intel,10,Windows,HDD,1000,14,No,Lenovo,No
+1106,"84,990",8,4,Intel,9,Windows,Both,1000+256,15.6,No,Acer,Yes
+1107,"55,139",4,4,Intel,8,Windows,HDD,1000,15.6,No,Lenovo,Yes
+1108,"2,39,900",16,4,Intel,9,Mac,SSD,1000,16,No,Apple,Yes
+1109,"70,990",8,3,Intel,8,Windows,SSD,512,14,No,Acer,No
+1110,"26,990",4,4,AMD,Not Mentioned,Windows,HDD,1000,14,No,Asus,No
+1111,"57,990",8,4,Intel,8,Windows,SSD,256,13.3,No,Acer,No
+1112,"93,999",8,4,AMD,Not Mentioned,Windows,SSD,128,15,Yes,Surface,No
+1113,"65,490",8,4,Intel,10,Windows,SSD,512,14,No,Acer,Yes
+1114,"50,990",8,4,Intel,8,Windows,SSD,512,14,No,Asus,No
+1115,"43,990",4,4,Intel,7,Windows,HDD,1000,15.6,No,Lenovo,No
+1116,"55,990",8,4,Intel,10,Windows,Both,1000+256,14,No,Asus,No
+1117,"97,990",16,4,Intel,8,Windows,SSD,512,14,No,Nexstgo,No
+1118,"1,64,999",16,4,Intel,10,Windows,SSD,512,13.3,Yes,Spectre,No
+1119,"1,49,990",16,4,Intel,8,Windows,SSD,512,15.6,No,MSI,Yes
+1120,"32,990",4,4,Intel,10,Windows,SSD,512,14,No,Lenovo,No
+1121,"61,990",8,4,Intel,8,Windows,HDD,1000,14,Yes,HP,No
+1122,"2,97,990",32,4,Intel,8,Windows,HDD,1000,15.6,No,alienware,Yes
+1123,"95,695",8,4,Intel,8,Windows,Both,1000,13.3,No,Lenovo,No
+1124,"98,890",8,4,Intel,8,Windows,SSD,512,15.6,No,Lenovo,Yes
+1125,"1,89,990",16,4,Intel,8,Windows,Both,1000+128,17.3,No,alienware,Yes
+1126,"38,599",4,3,Intel,Not Mentioned,Windows,Both,1000+512,10,Yes,Surface,No
+1127,"61,990",8,4,Intel,8,Windows,HDD,1000,14,Yes,HP,No
+1128,"1,48,999",8,3,Intel,8,Mac,SSD,256,13.3,No,HP,No
+1129,"1,79,990",16,4,Intel,9,Windows,Both,1000+512,15.6,No,HP,Yes
+1130,"38,599",4,3,Intel,Not Mentioned,Windows,SSD,128,10,Yes,Surface,No
+1131,"74,990",8,4,AMD,Not Mentioned,Windows,SSD,512,15.6,No,Dell,Yes
+1132,"1,94,900",16,4,Intel,10,Mac,SSD,1000,13,No,Apple,No
+1133,"69,990",8,4,Intel,9,Windows,SSD,512,15.6,No,Dell,Yes
+1134,"99,990",8,4,Intel,8,Windows,HDD,2000,15.6,No,Acer,Yes
+1135,"39,999",4,4,AMD,Not Mentioned,Windows,HDD,1000,14,No,Acer,No
+1136,"79,257",8,4,Intel,7,DOS,HDD,1000,15.6,No,MSI,Yes
+1137,"75,990",8,3,Intel,8,Windows,SSD,512,13.3,No,Asus,No
+1138,"79,990",8,4,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+1139,"72,990",8,3,Intel,7,Windows,SSD,256,13.3,No,Acer,No
+1140,"1,89,990",16,4,Intel,8,Windows,Both,1000+512,17.3,No,alienware,Yes
+1141,"40,831",4,4,Intel,10,Windows,HDD,1000,15.6,No,Acer,No
+1142,"78,837",8,4,Intel,8,Windows,SSD,512,15.6,No,Dell,Yes
+1143,"93,490",8,4,Intel,9,Windows,SSD,512,15.6,No,Dell,Yes
+1144,"1,09,490",16,4,Intel,10,Windows,SSD,512,14,No,MSI,Yes
+1145,"1,35,990",8,3,Intel,8,Windows,SSD,256,12,Yes,Surface,No
+1146,"20,990",4,4,AMD,Not Mentioned,Windows,SSD,128,14,No,Lenovo,No
+1147,"97,990",8,4,Intel,9,Windows,Both,1000+256,15.6,No,Acer,Yes
+1148,"94,990",8,4,Intel,8,Windows,SSD,512,13.3,Yes,Lenovo,No
+1149,"99,990",16,4,Intel,10,Windows,SSD,1000,13.3,No,Asus,No
+1150,"2,29,990",16,3,Intel,7,Mac,SSD,512,12,No,Apple,Yes
