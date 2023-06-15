@@ -9,10 +9,10 @@ st.title('Laptop Prices Predictor')
 
 model = joblib.load('model1.pkl')
 
-st.markdown( "## All the fields are mandatory.")
-st.subheader('Laptop Details:')
+st.markdown( "## SEMUA BIDANG WAJIB DI ISI !!!")
+st.subheader('Detail Laptop')
 
-company = st.selectbox("Company", options=df["Company"].unique())
+company = st.selectbox("Perusahaan", options=df["Company"].unique())
 
 def company_laptop(company):
     if company == "HP":
@@ -43,7 +43,7 @@ def company_laptop(company):
 company_of_laptop = company_laptop(company)
 
 
-processor_name = st.selectbox("Name of the Processor",options=df["Processor Name"].unique())
+processor_name = st.selectbox("Nama Processor",options=df["Processor Name"].unique())
 
 
 def pro_name(processor_name):
@@ -57,7 +57,7 @@ def pro_name(processor_name):
 name_of_the_processor = pro_name(processor_name)
 
 
-processor_type = st.selectbox("Type of the Processor(CPU)",options=df["Processor Type"].unique())
+processor_type = st.selectbox("Tipe Processor(CPU)",options=df["Processor Type"].unique())
 
 
 def pro_type(processor_type):
@@ -88,11 +88,11 @@ def pro_type(processor_type):
 
 type_of_the_processor = pro_type(processor_type)
 
-generation = st.number_input('Generation', step=1, min_value=2)
+generation = st.number_input('Generasi Processor', step=1, min_value=2)
 
-ram_in_gb = st.number_input('RAM in GB', step=4, min_value=4)
+ram_in_gb = st.number_input('RAM (GB)', step=4, min_value=4)
 
-ddr_version = st.number_input('DDR Version', step=1, min_value=3)
+ddr_version = st.number_input('Versi DDR', step=1, min_value=3)
 
 operating_system_type = st.selectbox("Operating System",options=df["Operating System Type"].unique())
 
@@ -122,7 +122,7 @@ def disk_type(diskdrive_type):
 
 type_of_diskdrive = disk_type(diskdrive_type)
 
-size_in_inches = st.number_input('Size of the laptop in Inches', step=0.1, min_value=10.0)
+size_in_inches = st.number_input('Ukuran Laptop (Inches)', step=0.1, min_value=10.0)
 
 graphic_card = st.radio("Graphic Card (0-No,1-Yes)", options=[0, 1])
 touchscreen  = st.radio("Touchscreen (0-No,1-Yes)", options=[0, 1])
@@ -131,8 +131,7 @@ features=[company_of_laptop,name_of_the_processor,type_of_the_processor,generati
 final_features = np.array(features).reshape(1, -1)
 
 if st.button('Predict'):
-    prediction = model.predict(final_features)
+    prediction = model.predict(final_features)*182
     st.balloons()
-    #st.success(f'Your predicted price of the laptop is {round(prediction[0],3)}')
-    st.success(f'Your predicted price of the laptop is {prediction[0]}')
+    st.success(f'Prediksi Harga Laptop: Rp.'+'{:,}'.format(int(prediction[0])).replace(",","."))
 
